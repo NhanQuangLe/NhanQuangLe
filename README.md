@@ -1,6 +1,6 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ahmad+Waseem+Piracha;Software+Engineer;Frontend+Developer;Mobile+Developer;%40ahmadpiracha">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Le+Quang+Nhan;Software+Engineer;Backend+Developer;Mobile+Developer;%40NhanQuangLe">
 </p>
 	<img src="https://komarev.com/ghpvc/?username=ahmadpiracha&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
@@ -9,24 +9,20 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 💬 Ask me about **ReactJS, React Native, NestJS, NodeJS, Flutter, Android**
 
-- 💬 Ask me about **React,React Native, Next.js, Node.js**
-
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
-
-- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 📫 Reach me at **quangnhan1601np@gmail.com**
 
 
 ### Connect with me 🔗 :
 <br>
 <p align='center'>
-<a href="mailto:ahmadpiracha3@gmail.com" target="_blank">
+<a href="mailto:quangnhan1601np@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/ahmadpiracha" target="_blank">
-<img src="https://img.shields.io/badge/ahmadpiracha-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ahmad-waseem-piracha" target="_blank">
+<a href="https://www.instagram.com/nhanlee_q/" target="_blank">
+<img src="https://img.shields.io/badge/LeQuangNhan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nhanquangle/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
@@ -46,6 +42,10 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
 
+<a href="" target="_blank">
+  <img alt="Java" src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black">
+</a>
+
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </a>
@@ -63,6 +63,11 @@
 <a href="https://reactjs.org/" target="_blank">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </a>
+
+<a href="https://reactjs.org/" target="_blank">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</a>
+
 <a href="https://nodejs.org/" target="_blank">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </a>
@@ -127,14 +132,6 @@
 <hr>
 <br>
 
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmadpiracha&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
-
-<hr>
-<br>
 
 ------
 Credit: [Ahmad Piracha](https://github.com/ahmadpiracha)
